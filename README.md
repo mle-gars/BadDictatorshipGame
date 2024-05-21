@@ -2,7 +2,7 @@
 
 Project GameJam for GodoEngine/ GameMaker
 
-# Principe du Jeu :
+## Principe du Jeu :
 
 **L'Eclatéhosolstan** est un pays en désordre complet où le dictateur est notoirement incompétent, menant à des situations particulièrement absurdes et des décisions ridicules.
 
