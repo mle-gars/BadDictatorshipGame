@@ -34,12 +34,17 @@
   },
   "name":"BadDictactorshipGame",
   "resources":[
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"obj_perso","path":"objects/obj_perso/obj_perso.yy",},},
+    {"id":{"name":"Room1_blue_city","path":"rooms/Room1_blue_city/Room1_blue_city.yy",},},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"id":{"name":"bg","path":"sprites/bg/bg.yy",},},
+    {"id":{"name":"spr_normal","path":"sprites/spr_normal/spr_normal.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room1_blue_city","path":"rooms/Room1_blue_city/Room1_blue_city.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
