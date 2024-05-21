@@ -34,6 +34,7 @@
   },
   "name":"BadDictactorshipGame",
   "resources":[
+    {"id":{"name":"objParallax","path":"objects/objParallax/objParallax.yy",},},
     {"id":{"name":"objMainCharacter","path":"objects/objMainCharacter/objMainCharacter.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"sprBackground1_1","path":"sprites/sprBackground1_1/sprBackground1_1.yy",},},
