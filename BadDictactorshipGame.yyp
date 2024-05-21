@@ -30,16 +30,18 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.2.0.132",
+    "IDEVersion":"2024.4.0.137",
   },
   "name":"BadDictactorshipGame",
   "resources":[
     {"id":{"name":"objMainCharacter","path":"objects/objMainCharacter/objMainCharacter.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"sprBackground1_1","path":"sprites/sprBackground1_1/sprBackground1_1.yy",},},
     {"id":{"name":"sprBackground1_2","path":"sprites/sprBackground1_2/sprBackground1_2.yy",},},
     {"id":{"name":"sprBackground1_3","path":"sprites/sprBackground1_3/sprBackground1_3.yy",},},
     {"id":{"name":"sprBackground1_4","path":"sprites/sprBackground1_4/sprBackground1_4.yy",},},
+    {"id":{"name":"sprBg2","path":"sprites/sprBg2/sprBg2.yy",},},
     {"id":{"name":"sprMainCharacterIdle","path":"sprites/sprMainCharacterIdle/sprMainCharacterIdle.yy",},},
     {"id":{"name":"sprMainCharacterJump","path":"sprites/sprMainCharacterJump/sprMainCharacterJump.yy",},},
     {"id":{"name":"sprMainCharacterRun","path":"sprites/sprMainCharacterRun/sprMainCharacterRun.yy",},},
@@ -49,6 +51,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

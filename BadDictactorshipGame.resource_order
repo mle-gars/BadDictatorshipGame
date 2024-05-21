@@ -17,10 +17,12 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"sprBackground1_1","order":4,"path":"sprites/sprBackground1_1/sprBackground1_1.yy",},
     {"name":"sprBackground1_2","order":5,"path":"sprites/sprBackground1_2/sprBackground1_2.yy",},
     {"name":"sprBackground1_3","order":6,"path":"sprites/sprBackground1_3/sprBackground1_3.yy",},
     {"name":"sprBackground1_4","order":8,"path":"sprites/sprBackground1_4/sprBackground1_4.yy",},
+    {"name":"sprBg2","order":9,"path":"sprites/sprBg2/sprBg2.yy",},
     {"name":"sprMainCharacterJump","order":3,"path":"sprites/sprMainCharacterJump/sprMainCharacterJump.yy",},
     {"name":"sprMainCharacterRun","order":2,"path":"sprites/sprMainCharacterRun/sprMainCharacterRun.yy",},
     {"name":"sprMainCharacterWalk","order":1,"path":"sprites/sprMainCharacterWalk/sprMainCharacterWalk.yy",},

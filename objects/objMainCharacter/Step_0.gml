@@ -1,9 +1,20 @@
 /// @description Insérez la description ici
 // Vous pouvez écrire votre code dans cet éditeur
 
+var ground_level = 295; // Niveau du sol, ajusté selon la hauteur du sprite
+
 playstate = "Idle"
 
-// Movement
+// Appliquer la gravité
+vSpeed += gravity;
+y += vSpeed;
+
+// Bloquer le personnage en bas de la page
+if (y >= ground_level) {
+    y = ground_level;
+    vSpeed = 0;
+    playstate = "Idle"; // Le personnage est au repos lorsqu'il est sur le sol
+}
 
 if(keyboard_check(vk_right) && keyboard_check(vk_control)){
 	x+= hSpeed*2;
