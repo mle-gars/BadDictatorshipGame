@@ -10,7 +10,7 @@ Vous incarnez un trouble-fête dont le but est de devenir dictateur à la place 
 
 Pour cela, vous devez faire preuve de votre intelligence et de votre capacité à manipuler les situations pour vous faire acclamer dictateur. Cependant, il y a un "twist" :
 
-- La population ne réagit pas à la force : il vous faudra _exploiter les failles et l'incompétence du régime_ pour parvenir à vos fins. Il faudra _participer à des actes de sabotage humoristiques_ pour **_augmenter le chaos_** et _mettre en évidence l'absurdité du régime_. C'est donc votre niveau de chaos qui décidera de votre devenir.
+- /!\ La population ne réagit pas à la force /!\ : il vous faudra _exploiter les failles et l'incompétence du régime_ pour parvenir à vos fins. Il faudra _participer à des actes de sabotage humoristiques_ pour **_augmenter le chaos_** et _mettre en évidence l'absurdité du régime_. C'est donc votre niveau de chaos qui décidera de votre devenir.
 
 ## Mechanique du Jeu :
 
