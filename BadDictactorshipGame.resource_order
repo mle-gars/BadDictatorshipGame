@@ -17,6 +17,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"objParallax","order":1,"path":"objects/objParallax/objParallax.yy",},
     {"name":"sprBackground1_1","order":4,"path":"sprites/sprBackground1_1/sprBackground1_1.yy",},
     {"name":"sprBackground1_2","order":5,"path":"sprites/sprBackground1_2/sprBackground1_2.yy",},
     {"name":"sprBackground1_3","order":6,"path":"sprites/sprBackground1_3/sprBackground1_3.yy",},
