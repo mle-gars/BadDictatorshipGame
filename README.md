@@ -31,3 +31,5 @@ Pour cela, vous devez faire preuve de votre intelligence et de votre capacité �
 - Bande Sonore : Musiques et effets sonores comiques qui soulignent l'incompétence et les situations ridicules.
 
 - Dialogues et Narration : Dialogues humoristiques et sarcastiques qui mettent en lumière l'absurdité du régime.
+
+état d'avancement mardi soir
