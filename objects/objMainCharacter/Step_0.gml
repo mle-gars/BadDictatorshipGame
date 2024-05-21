@@ -51,4 +51,6 @@ if(playstate == "Walk"){
 	sprite_index = sprMainCharacterIdle;
 }else if(playstate == "Run"){
 	sprite_index = sprMainCharacterRun;
+}else if(playstate == "Jump"){
+	sprite_index = sprMainCharacterJump;
 }
