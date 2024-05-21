@@ -16,5 +16,8 @@
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"sprMainCharacterRun","order":2,"path":"sprites/sprMainCharacterRun/sprMainCharacterRun.yy",},
+    {"name":"sprMainCharacterWalk","order":1,"path":"sprites/sprMainCharacterWalk/sprMainCharacterWalk.yy",},
+  ],
 }

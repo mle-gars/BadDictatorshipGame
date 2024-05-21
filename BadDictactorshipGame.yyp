@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -30,11 +30,15 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.0.137",
+    "IDEVersion":"2024.2.0.132",
   },
   "name":"BadDictactorshipGame",
   "resources":[
+    {"id":{"name":"objMainCharacter","path":"objects/objMainCharacter/objMainCharacter.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"sprMainCharacterRun","path":"sprites/sprMainCharacterRun/sprMainCharacterRun.yy",},},
+    {"id":{"name":"sprMainCharacterIdle","path":"sprites/sprMainCharacterIdle/sprMainCharacterIdle.yy",},},
+    {"id":{"name":"sprMainCharacterWalk","path":"sprites/sprMainCharacterWalk/sprMainCharacterWalk.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
