@@ -30,14 +30,20 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.0.137",
+    "IDEVersion":"2024.2.0.132",
   },
   "name":"BadDictactorshipGame",
   "resources":[
-    {"id":{"name":"objParallax","path":"objects/objParallax/objParallax.yy",},},
     {"id":{"name":"objMainCharacter","path":"objects/objMainCharacter/objMainCharacter.yy",},},
+    {"id":{"name":"objParallax","path":"objects/objParallax/objParallax.yy",},},
+    {"id":{"name":"Omenu","path":"objects/Omenu/Omenu.yy",},},
+    {"id":{"name":"Room0","path":"rooms/Room0/Room0.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"id":{"name":"menu_effect","path":"sounds/menu_effect/menu_effect.yy",},},
+    {"id":{"name":"background_song","path":"sounds/background_song/background_song.yy",},},
+    {"id":{"name":"S_background","path":"sprites/S_background/S_background.yy",},},
+    {"id":{"name":"S_menu","path":"sprites/S_menu/S_menu.yy",},},
     {"id":{"name":"sprBackground1_1","path":"sprites/sprBackground1_1/sprBackground1_1.yy",},},
     {"id":{"name":"sprBackground1_2","path":"sprites/sprBackground1_2/sprBackground1_2.yy",},},
     {"id":{"name":"sprBackground1_3","path":"sprites/sprBackground1_3/sprBackground1_3.yy",},},
@@ -51,8 +57,9 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room0","path":"rooms/Room0/Room0.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

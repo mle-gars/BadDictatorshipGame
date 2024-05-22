@@ -18,7 +18,12 @@
   ],
   "ResourceOrderSettings":[
     {"name":"objParallax","order":1,"path":"objects/objParallax/objParallax.yy",},
+    {"name":"Omenu","order":2,"path":"objects/Omenu/Omenu.yy",},
+    {"name":"Room0","order":2,"path":"rooms/Room0/Room0.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"background_song","order":1,"path":"sounds/background_song/background_song.yy",},
+    {"name":"S_background","order":10,"path":"sprites/S_background/S_background.yy",},
+    {"name":"S_menu","order":11,"path":"sprites/S_menu/S_menu.yy",},
     {"name":"sprBackground1_1","order":4,"path":"sprites/sprBackground1_1/sprBackground1_1.yy",},
     {"name":"sprBackground1_2","order":5,"path":"sprites/sprBackground1_2/sprBackground1_2.yy",},
     {"name":"sprBackground1_3","order":6,"path":"sprites/sprBackground1_3/sprBackground1_3.yy",},
