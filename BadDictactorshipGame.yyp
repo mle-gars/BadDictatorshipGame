@@ -36,6 +36,7 @@
   "resources":[
     {"id":{"name":"Obj_GoTo","path":"objects/Obj_GoTo/Obj_GoTo.yy",},},
     {"id":{"name":"objCollision","path":"objects/objCollision/objCollision.yy",},},
+    {"id":{"name":"objCore","path":"objects/objCore/objCore.yy",},},
     {"id":{"name":"objMainCharacter","path":"objects/objMainCharacter/objMainCharacter.yy",},},
     {"id":{"name":"objParallax","path":"objects/objParallax/objParallax.yy",},},
     {"id":{"name":"objSign","path":"objects/objSign/objSign.yy",},},
@@ -49,7 +50,7 @@
     {"id":{"name":"playerTalking","path":"scripts/playerTalking/playerTalking.yy",},},
     {"id":{"name":"pnjNotTalking","path":"scripts/pnjNotTalking/pnjNotTalking.yy",},},
     {"id":{"name":"pnjTalking","path":"scripts/pnjTalking/pnjTalking.yy",},},
-    {"id":{"name":"Spr_fgoTO","path":"sprites/Spr_fgoTO/Spr_fgoTO.yy",},},
+    {"id":{"name":"sprGoTo","path":"sprites/sprGoTo/sprGoTo.yy",},},
     {"id":{"name":"sprBackground1_1","path":"sprites/sprBackground1_1/sprBackground1_1.yy",},},
     {"id":{"name":"sprBackground1_2","path":"sprites/sprBackground1_2/sprBackground1_2.yy",},},
     {"id":{"name":"sprBackground1_3","path":"sprites/sprBackground1_3/sprBackground1_3.yy",},},

@@ -5,7 +5,7 @@ function pnjTalking(){
 	draw_sprite(sprTextBox, 0, xwidth/2, yheight/0.75);
 	draw_set_halign(fa_center);
 	draw_set_color(c_black);
-	draw_text(xwidth/2, yheight/0.75, message[i]);
+	draw_text(xwidth/2, yheight/0.75, message_list[i]);
 
 	if (keyboard_check_pressed(vk_enter)){
 		i++;
@@ -18,4 +18,4 @@ function pnjTalking(){
 	};
 
 }
-	
+

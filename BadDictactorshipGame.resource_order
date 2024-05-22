@@ -19,6 +19,7 @@
   "ResourceOrderSettings":[
     {"name":"Obj_GoTo","order":4,"path":"objects/Obj_GoTo/Obj_GoTo.yy",},
     {"name":"objCollision","order":3,"path":"objects/objCollision/objCollision.yy",},
+    {"name":"objCore","order":5,"path":"objects/objCore/objCore.yy",},
     {"name":"objParallax","order":1,"path":"objects/objParallax/objParallax.yy",},
     {"name":"objSign","order":2,"path":"objects/objSign/objSign.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
@@ -29,7 +30,7 @@
     {"name":"playerTalking","order":1,"path":"scripts/playerTalking/playerTalking.yy",},
     {"name":"pnjNotTalking","order":3,"path":"scripts/pnjNotTalking/pnjNotTalking.yy",},
     {"name":"pnjTalking","order":2,"path":"scripts/pnjTalking/pnjTalking.yy",},
-    {"name":"Spr_fgoTO","order":26,"path":"sprites/Spr_fgoTO/Spr_fgoTO.yy",},
+    {"name":"sprGoTo","order":26,"path":"sprites/sprGoTo/sprGoTo.yy",},
     {"name":"sprBackground1_1","order":4,"path":"sprites/sprBackground1_1/sprBackground1_1.yy",},
     {"name":"sprBackground1_2","order":5,"path":"sprites/sprBackground1_2/sprBackground1_2.yy",},
     {"name":"sprBackground1_3","order":6,"path":"sprites/sprBackground1_3/sprBackground1_3.yy",},
