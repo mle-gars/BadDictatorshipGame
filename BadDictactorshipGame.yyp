@@ -30,7 +30,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.2.0.132",
+    "IDEVersion":"2024.4.0.137",
   },
   "name":"BadDictactorshipGame",
   "resources":[
@@ -41,6 +41,7 @@
     {"id":{"name":"objSign","path":"objects/objSign/objSign.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+
     {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
     {"id":{"name":"Room5","path":"rooms/Room5/Room5.yy",},},
@@ -50,10 +51,12 @@
     {"id":{"name":"pnjNotTalking","path":"scripts/pnjNotTalking/pnjNotTalking.yy",},},
     {"id":{"name":"pnjTalking","path":"scripts/pnjTalking/pnjTalking.yy",},},
     {"id":{"name":"Spr_fgoTO","path":"sprites/Spr_fgoTO/Spr_fgoTO.yy",},},
+
     {"id":{"name":"sprBackground1_1","path":"sprites/sprBackground1_1/sprBackground1_1.yy",},},
     {"id":{"name":"sprBackground1_2","path":"sprites/sprBackground1_2/sprBackground1_2.yy",},},
     {"id":{"name":"sprBackground1_3","path":"sprites/sprBackground1_3/sprBackground1_3.yy",},},
     {"id":{"name":"sprBackground1_4","path":"sprites/sprBackground1_4/sprBackground1_4.yy",},},
+
     {"id":{"name":"sprBackground2_1","path":"sprites/sprBackground2_1/sprBackground2_1.yy",},},
     {"id":{"name":"sprBackground2_2","path":"sprites/sprBackground2_2/sprBackground2_2.yy",},},
     {"id":{"name":"sprBackground2_3","path":"sprites/sprBackground2_3/sprBackground2_3.yy",},},
@@ -75,6 +78,7 @@
     {"id":{"name":"sprBackground5_4","path":"sprites/sprBackground5_4/sprBackground5_4.yy",},},
     {"id":{"name":"sprCollision","path":"sprites/sprCollision/sprCollision.yy",},},
     {"id":{"name":"sprEndScreen","path":"sprites/sprEndScreen/sprEndScreen.yy",},},
+
     {"id":{"name":"sprMainCharacterIdle","path":"sprites/sprMainCharacterIdle/sprMainCharacterIdle.yy",},},
     {"id":{"name":"sprMainCharacterJump","path":"sprites/sprMainCharacterJump/sprMainCharacterJump.yy",},},
     {"id":{"name":"sprMainCharacterRun","path":"sprites/sprMainCharacterRun/sprMainCharacterRun.yy",},},
@@ -91,6 +95,7 @@
     {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
     {"roomId":{"name":"Room5","path":"rooms/Room5/Room5.yy",},},
     {"roomId":{"name":"RoomEnd","path":"rooms/RoomEnd/RoomEnd.yy",},},
+
   ],
   "templateType":"game",
   "TextureGroups":[
