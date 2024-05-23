@@ -36,8 +36,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"sprMainCharacterWalk",
-    "path":"sprites/sprMainCharacterWalk/sprMainCharacterWalk.yy",
+    "name":"sprMainCharacterIdle",
+    "path":"sprites/sprMainCharacterIdle/sprMainCharacterIdle.yy",
   },
   "spriteMaskId":null,
   "visible":true,
