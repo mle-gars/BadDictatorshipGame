@@ -22,6 +22,7 @@
     {"name":"objBarreChaos","order":6,"path":"objects/objBarreChaos/objBarreChaos.yy",},
     {"name":"objCollision","order":3,"path":"objects/objCollision/objCollision.yy",},
     {"name":"objCore","order":5,"path":"objects/objCore/objCore.yy",},
+    {"name":"objKeyEnter","order":6,"path":"objects/objKeyEnter/objKeyEnter.yy",},
     {"name":"objParallax","order":1,"path":"objects/objParallax/objParallax.yy",},
     {"name":"objSign","order":2,"path":"objects/objSign/objSign.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
@@ -63,7 +64,8 @@
     {"name":"sprMainCharacterJump","order":3,"path":"sprites/sprMainCharacterJump/sprMainCharacterJump.yy",},
     {"name":"sprMainCharacterRun","order":2,"path":"sprites/sprMainCharacterRun/sprMainCharacterRun.yy",},
     {"name":"sprMainCharacterWalk","order":1,"path":"sprites/sprMainCharacterWalk/sprMainCharacterWalk.yy",},
-    {"name":"sprSign","order":9,"path":"sprites/sprSign/sprSign.yy",},
-    {"name":"sprTextBox","order":10,"path":"sprites/sprTextBox/sprTextBox.yy",},
+    {"name":"sprSign","order":8,"path":"sprites/sprSign/sprSign.yy",},
+    {"name":"sprTextBox","order":9,"path":"sprites/sprTextBox/sprTextBox.yy",},
+    {"name":"sprWhyKeyEnter","order":32,"path":"sprites/sprWhyKeyEnter/sprWhyKeyEnter.yy",},
   ],
 }
