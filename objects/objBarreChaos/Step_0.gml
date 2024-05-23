@@ -1,11 +1,11 @@
 
 
-// Vérifie si la room actuelle est room0
+// Vérifie si la room actuelle est room0 ou end
 if (room == RoomEnd) {
     instance_destroy();
 } else {
     
-    var margin_x = 500; 
+    var margin_x = 450; 
     var margin_y = 5; 
     x = camera_get_view_x(view_camera[0]) + margin_x;
     y = camera_get_view_y(view_camera[0]) + margin_y;
